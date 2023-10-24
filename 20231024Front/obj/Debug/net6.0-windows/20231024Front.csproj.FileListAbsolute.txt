@@ -1,0 +1,16 @@
+C:\Users\diak\source\repos\20231024Front\20231024Front\bin\Debug\net6.0-windows\20231024Front.exe
+C:\Users\diak\source\repos\20231024Front\20231024Front\bin\Debug\net6.0-windows\20231024Front.deps.json
+C:\Users\diak\source\repos\20231024Front\20231024Front\bin\Debug\net6.0-windows\20231024Front.runtimeconfig.json
+C:\Users\diak\source\repos\20231024Front\20231024Front\bin\Debug\net6.0-windows\20231024Front.dll
+C:\Users\diak\source\repos\20231024Front\20231024Front\bin\Debug\net6.0-windows\20231024Front.pdb
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\_20231024Front.Form1.resources
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.csproj.GenerateResource.cache
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.AssemblyInfoInputs.cache
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.AssemblyInfo.cs
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.dll
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\refint\20231024Front.dll
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.pdb
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\20231024Front.genruntimeconfig.cache
+C:\Users\diak\source\repos\20231024Front\20231024Front\obj\Debug\net6.0-windows\ref\20231024Front.dll
